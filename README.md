@@ -3,8 +3,8 @@ Hello world training
 
 ##Some topic
 
-Stuff
+Stuff to be written above this topic.
 
 ###Sub topic
 
-Others
+Other stuff.
